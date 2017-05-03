@@ -1,0 +1,25 @@
+.menu .title-specials{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.title-specials em p{
+	margin-top: 20px;
+}
+
+.menu strong{
+	display:inline;
+}
+
+.menu h5{
+	text-align:center;
+	padding: 15px;
+}
+
+.food-items{
+	padding: 20px;
+}
+
+#sashimi-row{
+	margin-top: 20px;
+}

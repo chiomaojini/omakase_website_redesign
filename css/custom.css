@@ -1,0 +1,101 @@
+body{
+	box-sizing:border-box;
+}
+
+main{
+	max-width: 960px;
+	min-width: 320px;
+	margin: 30px auto;
+}
+
+/******/
+
+.top-nav-contacts{
+	float: right;
+	padding-right: 15px;
+}
+.top-nav-contact{
+	float:left;
+	margin-right: 60px;
+	margin-top: 7px;
+}
+.top-nav-contact:last-child{
+	margin-right: 0px;
+}
+.top-nav-social-media{
+	margin-right:15px;
+}
+
+.navbar-brand{
+	height: 102px;
+	clear: both;
+	margin-bottom: 25px;
+}
+
+.navbar{
+	background-color: transparent;
+	border: none;
+	font-size: 12px;
+}
+
+.navbar-right{
+	text-align: center;
+	margin-top:69px;
+}
+
+.navbar-nav .active a,
+.navbar-nav .active a:hover{
+	background-color: #cc9900 !important;
+}
+.navbar-nav a{
+	color: #333333 !important;
+}
+.navbar-nav a:hover{
+	background-color: #cccccc !important;
+}
+
+.navbar-toggle{
+	position: relative;
+  top: 30px;
+}
+.page-title-box{
+	margin: auto -15px;
+}
+.page-title{
+	text-align: center;
+	position: relative;
+	top:-180px;
+	width: 100%;
+}
+
+/*******/
+
+.main-content-area{
+	margin-top:-76px;
+}
+
+.main-content-area .text-box{
+	padding: 20px 0px;
+}
+
+
+footer{
+	clear: left;
+}
+
+footer .social-section{
+	padding: 15px;
+}
+
+footer .social-links{
+	margin: 10px auto 25px;
+	max-width: 260px;
+}
+
+.footer-section{
+	min-height: 434px;
+	padding: 15px;
+}
+
+
+

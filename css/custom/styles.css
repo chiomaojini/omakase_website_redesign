@@ -1,0 +1,38 @@
+body{
+	font-family: 'Libre Franklin', sans-serif; 
+	color:#333333;
+}
+
+.center-align{
+	text-align: center;
+}
+
+h2,.h2{font-weight:700;font-size:42px;} /*Bold*/
+h3,.h3{font-weight:500;font-size:36px;} /*Medium*/
+h4,.h4{font-weight:400;font-size:26px;} /*Regular*/
+h5,.h5{font-weight:600;font-size:24px;} /*SemiBold*/
+h6,.h6{font-weight:700;font-size:18px;} /*Bold*/
+p{font-weight:400;font-size:14px;} /*Regular*/
+
+
+.txt-red{color:#cc3333;}
+.txt-gold{color:#cc9900;}
+.txt-lgray{color:#cccccc;}
+.txt-dgray{color:#333333;}
+.txt-white{color: white;}
+
+.bg-red{background-color:#cc3333;}
+.bg-gold{background-color:#cc9900;}
+.bg-lgray{background-color:#cccccc;}
+.bg-dgray{background-color:#333333;}
+
+.bg-dgray50{background-color:rgba(51,51,51,.5)}
+.bg-dgray25{background-color:rgba(51,51,51,.25)}
+
+
+
+/*Header NAV STYLES*/
+
+.btn-font{font-weight:500;font-size:20px;} /*Medium*/
+.top-nav-contact{font-size:12px;} /*p, Regular*/
+.nav-options{font-weight:500;font-size:17px;}

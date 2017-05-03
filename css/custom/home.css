@@ -1,0 +1,28 @@
+#press-logos{
+	text-align: center;
+	margin: 70px 0px;
+}
+#press-logo-title{
+	text-align: center;
+  margin-top: -60px;
+  margin-bottom: 65px;
+}
+
+#press-logos img{
+	margin: 10px 0px;
+}
+
+#press-logo-row-2 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#special-ingr p{
+	max-width: 360px;
+}
+
+#home-rez-button{
+	display: inline-block;
+	margin-top: 15px;
+	padding: 10px;
+}
